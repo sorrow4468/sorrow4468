@@ -3,9 +3,12 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;"기술의 흐름, 시대의 흐름을 주도하는 쪽에 서고 싶다"는 마음가짐으로 개발자를 선택했어요.\
+
 🎓 &nbsp;삼성청년소프트웨어아카데미(SSAFY)에서 공부중이에요.\
+
 🌱 &nbsp;프론트엔드와 웹디자인이 재밌고 열심히 배우고 있어요!.\
-✍️ &nbsp;집 밖을 더 좋아해요. 가방에 서피스 하나 넣고 걷다가, 맘에 드는 카페가 나오면 커피 한 잔 하면서 공부하는게 정말 좋아요.\
+
+✍️ &nbsp;집 밖을 더 좋아해요. 가방에 서피스 하나 넣고 걷다가, 카페에서 커피 한 잔 하면서 공부하는걸 정말 좋아해요.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
