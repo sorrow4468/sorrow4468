@@ -22,22 +22,25 @@
 
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)&nbsp;![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)&nbsp;![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)&nbsp;![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)&nbsp;![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)&nbsp;![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)&nbsp;![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)&nbsp;![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics & Baekjoon Online Judge ✏️
 
 <p align="center">
 <a href="https://github.com/sorrow4468">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sorrow4468&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+<a href="https://github.com/sorrow4468">  
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sorrow4468&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+<a href="https://solved.ac/sorrow4468">
+  <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sorrow4468">
 </a>
 </p>
 
-
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="left">
 <a href="mailto:sorrow4468@gmail.com"><img src="https://img.shields.io/badge/-sorrow4468@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
-
 
 -----
 
