@@ -2,13 +2,13 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;"기술의 흐름, 시대의 흐름을 주도하는 쪽에 서고 싶다"는 마음가짐으로 개발자를 선택했어요
+💡 &nbsp;"기술의 흐름, 시대의 흐름을 주도하는 쪽에 서고 싶다"는 마음가짐으로 개발자를 선택했어요.\
 
-🎓 &nbsp;삼성청년소프트웨어아카데미(SSAFY)에서 공부중이에요
+🎓 &nbsp;삼성청년소프트웨어아카데미(SSAFY)에서 공부중이에요.\
 
-🌱 &nbsp;프론트엔드와 웹디자인이 재밌고 열심히 배우고 있어요!
+🌱 &nbsp;프론트엔드와 웹디자인이 재밌고 열심히 배우고 있어요!.\
 
-✍️ &nbsp;집 밖을 더 좋아해요. 카페에서 커피 한 잔 하면서 공부하는걸 정말 좋아해요. 서피스👍
+✍️ &nbsp;집 밖을 더 좋아해요. 가방에 서피스 하나 넣고 걷다가, 카페에서 커피 한 잔 하면서 공부하는걸 정말 좋아해요.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -18,7 +18,7 @@
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)&nbsp;![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)&nbsp;![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)&nbsp;![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)&nbsp;
 
-### 💻&nbsp;Devices & Others
+### 💻&nbsp;Devices
 
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)&nbsp;![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)&nbsp;![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)&nbsp;![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)&nbsp;![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)&nbsp;![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)&nbsp;![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)&nbsp;![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)&nbsp;
 
