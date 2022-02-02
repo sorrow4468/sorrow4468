@@ -8,7 +8,7 @@
 
 🌱 &nbsp;프론트엔드와 웹디자인이 재밌고 열심히 배우고 있어요!
 
-✍️ &nbsp;집 밖을 더 좋아해요. 카페에서 커피 한 잔 하면서 공부하는걸 정말 좋아해요. 서피스👍
+✍️ &nbsp;집 밖을 더 좋아해요. 카페에서 커피 한 잔 하면서 공부하는걸 정말 좋아해요. 서피스 최고👍
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
